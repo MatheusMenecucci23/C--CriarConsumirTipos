@@ -16,6 +16,7 @@ namespace certificacao_csharp_roteiro
 
             try
             {
+                //fazendo o unboxing
                 int unboxed = (int)caixa;
 
                 System.Console.WriteLine("Unboxing OK.");
