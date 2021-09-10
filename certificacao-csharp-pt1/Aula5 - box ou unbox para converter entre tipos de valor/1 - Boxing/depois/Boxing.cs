@@ -12,7 +12,7 @@ namespace certificacao_csharp_roteiro
         {
             int numero = 57; 
              
-            //fazendo um boxing: colocando o número dentro da caixa
+            //fazendo um boxing: colocando o número dentro da caixa;
             object caixa = numero;
 
             Console.WriteLine(caixa);
